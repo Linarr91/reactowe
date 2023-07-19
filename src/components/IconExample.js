@@ -1,9 +1,11 @@
 import React from 'react'
+import { FaBeer } from "@react-icons/all-files/fa/FaBeer";
+
 
 const IconExample = () => {
     return (
         <div>
-            Blabla 
+            Blabla <FaBeer />
         </div>
     )
 }
